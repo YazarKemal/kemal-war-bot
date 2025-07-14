@@ -22,5 +22,5 @@
 
 1. **Repository'yi klonlayın:**
 ```bash
-git clone https://github.com/KULLANICI_ADINIZ/kemal-war-bot.git
+git clone https://github.com/YazarKemal/kemal-war-bot.git
 cd kemal-war-bot
